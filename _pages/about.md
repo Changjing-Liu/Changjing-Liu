@@ -93,6 +93,18 @@ Robot Software Algorithm Intern, *Fragrant Mountain Microwave Co., Ltd.* <img sr
 
 <span class='anchor' id='projects'></span>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-L</div><img src='/images/RAL.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+-	**Changjing Liu**, Pingping Jiang, Zhiwu Wang, Guozheng Yan and Ding Han. 
+- Defecation Perception Reconstruction Based on AttentionLSTM Networks for Artificial Anal Sphincter with Multi-Sensor System. 
+- IEEE Robotics and Automation Letters (RA-L) (under review).
+
+</div>
+</div>
+
+<span class='anchor' id='projects'></span>
+
 # Projects
 ---  
 
