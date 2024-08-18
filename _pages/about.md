@@ -20,6 +20,8 @@ During my undergraduate studies, I mainly focused on **drone visual tracking** u
 I'm looking for a job or PhD opportunity in the field of **medical simulation, robotics**, etc.
 Click [here](https://changjing-liu.github.io/assets/resume_changjingliu_english.pdf) to find my up-to-date CV.
 
+If you have any questions, don't hesitate to contact me via changjing.liu@qq.com or changjing.liu@outlook.com
+
 <br/>
 
 
